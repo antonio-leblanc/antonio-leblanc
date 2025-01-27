@@ -6,5 +6,7 @@ I want to make a positive impact on the world and fight climate change through f
 
 That's why i'm CTO at [umgrauemeio](https://umgrauemeio.com/)
 
+[![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-leblanc)](https://github.com/anuraghazra/github-readme-stats)
+
 Wanna connect?
 - [Linkedin](https://www.linkedin.com/in/antonio-leblanc/)
