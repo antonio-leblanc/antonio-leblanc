@@ -8,7 +8,7 @@ That's why i'm CTO at [umgrauemeio](https://umgrauemeio.com/)
 
 [![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-leblanc)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonio-leblanc)]
 
 Wanna connect?
 - [Linkedin](https://www.linkedin.com/in/antonio-leblanc/)
