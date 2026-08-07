@@ -10,7 +10,7 @@ I'm Antonio!
 
 📢 Let's build a better world together. Connect with me to exchange ideas, collaborate on solutions, and explore opportunities at the intersection of AI and environmental protection.
 - [Linkedin](https://www.linkedin.com/in/antonio-leblanc/)
-- [website!](https://antonio-leblanc.github.io/website/)
+- [website!](https://antonio-leblanc.github.io/)
 
 ## 🛠️ Highlighted Work
 
