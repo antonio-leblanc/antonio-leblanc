@@ -1,12 +1,16 @@
-## 💫 Hi there, I'm Antonio 👋
+## 💫 Hi there 👋
 
-🔥 CTO & Co-Founder @ [1.5°C (umgrauemeio)](https://umgrauemeio.com/), a Brazilian climate tech company. I lead the development of **Pantera**, an AI-driven wildfire management platform protecting **17M+ hectares** across **140+ monitoring towers** in Brazil — including the Pantanal wetlands and indigenous territories — by fusing camera detection, satellite data, and geospatial intelligence at **95% detection accuracy**.
+I'm Antonio!
 
-🌱 Self-taught, intern-to-CTO. I still believe tech alone doesn't solve climate change — it needs to pair with policy, community, and ethics to leave a lasting impact.
+👋 Driven by a mission to fight climate change, I lead the development of AI-powered wildfire detection systems as CTO of [umgrauemeio (1.5°C)](https://umgrauemeio.com/). Our solutions protect vital ecosystems and help industries reduce their environmental footprint.
 
-📢 Open to conversations at the intersection of AI and environmental protection.
-- [LinkedIn](https://www.linkedin.com/in/antonio-leblanc/)
-- [Website](https://antonio-leblanc.github.io/website/)
+🌟 From intern to CTO, I developed Pantera, a platform that uses AI, cameras, satellite data, and geospatial intelligence to detect wildfires with 95% accuracy — today protecting 17M+ hectares across 140+ towers in Brazil, tackling one of the country's largest sources of CO₂ emissions.
+
+🌍 What drives me: technology is a powerful tool, but real change requires collaboration and systemic solutions.
+
+📢 Let's build a better world together. Connect with me to exchange ideas, collaborate on solutions, and explore opportunities at the intersection of AI and environmental protection.
+- [Linkedin](https://www.linkedin.com/in/antonio-leblanc/)
+- [website!](https://antonio-leblanc.github.io/website/)
 
 ## 🛠️ Highlighted Work
 
@@ -17,6 +21,7 @@
 
 ![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-4B0082?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
