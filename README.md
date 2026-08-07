@@ -4,7 +4,7 @@ I'm Antonio!
 
 👋 Driven by a mission to fight climate change, I lead the development of AI-powered wildfire detection systems as CTO of [umgrauemeio (1.5°C)](https://umgrauemeio.com/). Our solutions protect vital ecosystems and help industries reduce their environmental footprint.
 
-🌟 From intern to CTO, I developed Pantera, a platform that uses AI, cameras, satellite data, and geospatial intelligence to detect wildfires with 95% accuracy — today protecting 17M+ hectares across 140+ towers in Brazil, tackling one of the country's largest sources of CO₂ emissions.
+🌟 From intern to CTO, I developed Pantera, a platform that uses AI, cameras, satellite data, and geospatial intelligence to detect wildfires with 95% accuracy — today protecting 17M+ hectares through a network of 190 cameras in Brazil, tackling one of the country's largest sources of CO₂ emissions.
 
 🌍 What drives me: technology is a powerful tool, but real change requires collaboration and systemic solutions.
 
