@@ -1,14 +1,14 @@
-### I inherited a project as an intern. Today Pantera protects 40 million hectares with 190 cameras.
+### Intern to CTO in ten months. Today I lead the AI platform protecting 40 million hectares against wildfire.
 
-Intern to CTO in ten months, leading **[Pantera](https://umgrauemeio.com/)** end to end — architecture, detection, risk, response, impact. Inherited it from a teammate who left to do a PhD at NASA.
+I lead **[Pantera](https://umgrauemeio.com/)** at 1.5°C — architecture, satellite, fire spread risk, response, and operations — with the engineering, ML, and environmental science team that builds it with me.
 
 **[1.5°C](https://umgrauemeio.com/)** — co-founder and CTO since 2020, Rio de Janeiro.
 
 **Scale** — 190 cameras, 40M+ hectares, 95% detection accuracy, including the Pantanal.
 
-**Agents in production** — 8 of them run sales, support and marketing on [Hermes](https://github.com/NousResearch/hermes-agent), open-source, on our own servers. One alone has opened 400+ issues, about 25% closing without any real review, mine included.
+**Agents in production** — 8 of them run sales, support and marketing on [Hermes](https://github.com/NousResearch/hermes-agent), open-source, on our own servers. One alone has opened 400+ issues, about 25% closing without real review, mine included.
 
-**[ForeFire](https://github.com/forefireAPI/forefire)** — contributor since 2022 to CNRS's open-source wildfire simulator (C++): Dockerization, CI/CD, documentation.
+**[ForeFire](https://github.com/forefireAPI/forefire)** — maintainer since 2022 of CNRS's open-source wildfire simulator (C++), and co-author on its [JOSS paper](https://doi.org/10.21105/joss.08680): reviewing and merging PRs, cutting releases, Dockerization, CI/CD, documentation.
 
 **Now** — open to a technical second opinion for early-stage climate teams, or to hear what you're building in wildfire, deforestation, or agentic systems.
 
