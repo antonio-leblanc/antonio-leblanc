@@ -8,8 +8,8 @@ I lead **[Pantera](https://umgrauemeio.com/)** at 1.5°C — architecture, satel
 
 **Agents in production** — 8 of them run sales, support and marketing on [Hermes](https://github.com/NousResearch/hermes-agent), open-source, on our own servers. One alone has opened 400+ issues, about 25% closing without real review, mine included.
 
-**[ForeFire](https://github.com/forefireAPI/forefire)** — maintainer since 2022 of CNRS's open-source wildfire simulator (C++), and co-author on its [JOSS paper](https://doi.org/10.21105/joss.08680): reviewing and merging PRs, cutting releases, Dockerization, CI/CD, documentation.
+**[ForeFire](https://github.com/forefireAPI/forefire)** — contributor since 2022, maintainer since 2025, of CNRS's open-source wildfire simulator (C++), and co-author on its [JOSS paper](https://doi.org/10.21105/joss.08680): reviewing and merging PRs, cutting releases, Dockerization, CI/CD, documentation.
 
-**Now** — open to a technical second opinion for early-stage climate teams, or to hear what you're building in wildfire, deforestation, or agentic systems.
+**Now** — leading Pantera, and looking at where this scales further: climate, govtech, or agentic systems, wherever the team moves fast and the problem is real.
 
 More at [antonioleblanc.com](https://antonioleblanc.com) · [LinkedIn](https://www.linkedin.com/in/antonio-leblanc/)
