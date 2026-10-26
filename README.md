@@ -1,6 +1,6 @@
-### Intern to CTO in ten months. Today I lead the AI platform protecting 40M+ hectares against wildfire.
+### I built an AI platform that protects 40 million hectares from wildfires.
 
-Co-founder & CTO at **[1.5°C](https://umgrauemeio.com/)** (Rio de Janeiro). I lead **Pantera**, our AI wildfire platform covering prevention, early detection, fire-spread modeling, and operational response — and the engineers, ML specialists, and environmental scientists who build it.
+Co-founder & CTO at **[1.5°C](https://umgrauemeio.com/)** (Rio de Janeiro). I joined as an intern; ten months later I had to become CTO. I lead **Pantera**, our AI wildfire platform covering prevention, early detection, fire-spread modeling, and operational response — and the engineers, ML specialists, and environmental scientists who build it.
 
 - **Scale** — 190 field cameras, 40M+ hectares protected, including the Pantanal. Tuned for recall: a missed fire costs more than a false alarm.
 - **ForeFire** — Contributor since 2022, maintainer since 2025 of CNRS's open-source wildfire simulator (C++). Co-author on the [JOSS paper](https://doi.org/10.21105/joss.08680). Releases, CI/CD, Dockerization, docs.
