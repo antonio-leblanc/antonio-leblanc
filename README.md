@@ -9,3 +9,5 @@ Co-founder & CTO at **[1.5°C](https://umgrauemeio.com/)** (Rio de Janeiro). I j
 Building at the intersection of AI, physical operations, and open source — where the hard part isn't the model, but putting it inside an operation where being wrong is expensive.
 
 [antonioleblanc.com](https://antonioleblanc.com) · [LinkedIn](https://www.linkedin.com/in/antonio-leblanc/)
+
+<img src="nagare/nagare.svg" width="100%" alt="A year of work as a river" />
